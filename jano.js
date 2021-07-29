@@ -754,7 +754,7 @@ jano12.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `I rely on God that's why no one can destroy 
 
   ];
   setInterval(function() {
@@ -2461,11 +2461,11 @@ jano100.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
-jano2.login("");
-jano3.login("");
-jano4.login("");
-jano5.login("");
+jano.login("ODY5NjQyNjI0NjE1NzE0ODM4.YQBMRw.hH8W5VKYcjAxvcZfqT-TPVekYsU");
+jano2.login("ODY5NjQxNTkxMzE5NTYwMjYz.YQBMqA.85kNBvj9GKcyvqVRIDoJGFycfbY");
+jano3.login("ODY5NjQwMzc4ODc2MzIxODMy.YQBM5w.qIc6rliQDrPHX3MtwdLM1PtzWoQ");
+jano4.login("ODY5NjM4OTEzNTA4MTE4NTM5.YQBNHA.vRo0jN3lNyHadWUm6ZaY9Uyl1dk");
+jano5.login("ODY5NjM5MTQ1NzM0MTYwNDM0.YQBNUg.vp1O88FKbAtx4utTb-82FjRnG9o");
 jano6.login("");
 jano7.login("");
 jano8.login("");
