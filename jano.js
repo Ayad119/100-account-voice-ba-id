@@ -107,17 +107,17 @@ const jano100 = new Discord.Client();
 
 ///////////////////
 jano.on("ready", () => {
-    var join = jano.channels.get(""); /// id voice
+    var join = jano.channels.get("800841819360591894"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 jano2.on("ready", () => {
-    var join = jano2.channels.get(""); /// id voice
+    var join = jano2.channels.get("800841819360591894"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 jano3.on("ready", () => {
-    var join = jano3.channels.get(""); /// id voice
+    var join = jano3.channels.get("800841819360591894"); /// id voice
     if (join) join.join();
   });
 ///////////////////
@@ -2461,9 +2461,9 @@ jano100.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
-jano2.login("");
-jano3.login("");
+jano.login("ODY5NjQyMTU3NzY4NzI0NTgy.YQV7cg.BeU1ajsi8aCHpcaIj_FCf9INlKc");
+jano2.login("ODcxMDY0MjU0Nzg5MzUzNTUy.YQV7UQ.fnOUnGyyz5ByHPWHAAL34Ui8Nl0");
+jano3.login("ODcxMDY0NjA4NzM0MDc3MDE4.YQV7KQ.iLNt1Om7lGxhmfcNaGONrfdNVVY");
 jano4.login("");
 jano5.login("");
 jano6.login("");
